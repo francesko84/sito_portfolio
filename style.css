@@ -1,0 +1,11 @@
+body{
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(17,17,17,1) 45%, rgba(85,85,85,1) 100%);
+}
+.container{
+  background: #000;
+  border: 3px solid blue;
+  width: 600px;
+  height: 800px;
+  margin:80px auto;
+
+}
